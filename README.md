@@ -7,8 +7,5 @@ Download torrents directly to Google Drive using Google Colab
 3. You can bypass any restrictions on torrenting set by your ISP and access your files through drive (neat isn't it!).
 4. can download with your mobile phone easily.
 
-### How to?
-https://youtu.be/UnrQms_U5dA
-
 ## *** This is purely for education purpose ***
 
